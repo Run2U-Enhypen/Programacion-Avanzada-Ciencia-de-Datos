@@ -1,0 +1,13 @@
+producto_id,nombre,categoria,precio_lista
+P001,Garrafón 20 L,Bebidas,38
+P002,Refresco 600 ml,Bebidas,19
+P003,Leche 1 L,Lácteos,29
+P004,Tortilla 1 kg,Básicos,24
+P005,Huevo 1 kg,Básicos,52
+P006,Frijol 1 kg,Básicos,36
+P007,Arroz 1 kg,Básicos,31
+P008,Aceite 1 L,Abarrotes,48
+P009,Azúcar 1 kg,Abarrotes,33
+P010,Café 250 g,Abarrotes,79
+P011,Jabón barra,Limpieza,18
+P012,Papel higiénico 4 pz,Limpieza,42

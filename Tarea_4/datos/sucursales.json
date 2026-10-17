@@ -1,0 +1,38 @@
+[
+  {
+    "sucursal_id": "S01",
+    "nombre": "Tlahuac Centro",
+    "municipio": "Tlahuac",
+    "contacto": {
+      "gerente": "M. López",
+      "tel": "55-1111-0001"
+    }
+  },
+  {
+    "sucursal_id": "S02",
+    "nombre": "La Turba",
+    "municipio": "Turba",
+    "contacto": {
+      "gerente": "R. Díaz",
+      "tel": "55-1111-0002"
+    }
+  },
+  {
+    "sucursal_id": "S03",
+    "nombre": "Bosque de Tlahuac",
+    "municipio": "Bosque",
+    "contacto": {
+      "gerente": "A. Ruiz",
+      "tel": "55-1111-0003"
+    }
+  },
+  {
+    "sucursal_id": "S04",
+    "nombre": "Lago Tlahuac",
+    "municipio": "Lago",
+    "contacto": {
+      "gerente": "L. Vega",
+      "tel": "55-1111-0004"
+    }
+  }
+]
