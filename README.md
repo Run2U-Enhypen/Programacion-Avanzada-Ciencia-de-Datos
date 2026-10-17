@@ -10,11 +10,11 @@ Los ejercicios se desarrollan principalmente con Python y Jupyter Notebook, apli
 
 | Actividad | Estado | Acceso |
 |---|---|---|
-| Tarea 1 | Pendiente de publicación | — |
-| Tarea 2 | Pendiente de publicación | — |
-| Tarea 3 | Pendiente de publicación | — |
-| Tarea 4 | Pendiente de desarrollo | — |
-| Tarea 5 | Pendiente de desarrollo | — |
+| Tarea 1 — Conjunto de datos de muestra | Publicada | [Ver Tarea 1](Tareas_1_2_3/) |
+| Tarea 2 — Consultas sobre ventas | Publicada | [Ver Tarea 2](Tareas_1_2_3/) |
+| Tarea 3 — Diagnóstico y limpieza | Publicada | [Ver Tarea 3](Tareas_1_2_3/) |
+| Tarea 4 — Fusión y agrupación | Publicada | [Ver Tarea 4](Tarea_4/) |
+| Tarea 5 — Serie de calidad del aire | Publicada | [Ver Tarea 5](Tarea_5/) |
 | Tarea 6 — Integración final de datos | Publicada | [Ver Tarea 6](Tarea_6/) |
 
 ## Tarea 6 — Integración de datos históricos del Tour de Francia
