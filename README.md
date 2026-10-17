@@ -17,26 +17,58 @@ Los ejercicios se desarrollan principalmente con Python y Jupyter Notebook, apli
 | Tarea 5 — Serie de calidad del aire | Publicada | [Ver Tarea 5](Tarea_5/) |
 | Tarea 6 — Integración final de datos | Publicada | [Ver Tarea 6](Tarea_6/) |
 
-## Tarea 6 — Integración de datos históricos del Tour de Francia
+## Descripción de las actividades
 
-Se realizó la adquisición, exploración, limpieza e integración de datos históricos de ciclistas y etapas del Tour de Francia.
+Este repositorio reúne las seis tareas de la **Unidad 2: Manejo preliminar de datos**, correspondientes a la asignatura **Programación Avanzada para Ciencia de Datos** de la carrera de Ingeniería en Ciencia de Datos.
 
-El proyecto incluye:
+Las actividades desarrolladas abarcan:
 
-- Notebook de Jupyter con el procedimiento documentado.
-- Cuatro archivos CSV originales.
-- Dataset integrado exportado en formato Parquet.
-- Bitácora de transformaciones, validaciones y comparación de calidad antes y después de la limpieza.
-- README específico con metodología, resultados y limitaciones.
-
-**[Consultar la Tarea 6](Tarea_6/)**
+- **Tarea 1 — Conjunto de datos de muestra:** creación de un conjunto de datos, almacenamiento en formatos especializados y comparación de archivos.
+- **Tarea 2 — Consultas sobre ventas:** selección, filtrado y ordenamiento de registros mediante Pandas.
+- **Tarea 3 — Diagnóstico y limpieza:** identificación y corrección de inconsistencias, duplicados, tipos de datos y valores incorrectos, con exportación a Parquet.
+- **Tarea 4 — Fusión y agrupación:** integración de tablas de ventas, productos y sucursales mediante `merge`, análisis con `groupby` y tablas dinámicas.
+- **Tarea 5 — Serie de calidad del aire:** detección de valores faltantes y atípicos en mediciones de PM2.5, interpolación temporal y visualización.
+- **Tarea 6 — Integración final de datos:** adquisición, limpieza e integración de datos históricos del Tour de Francia, con documentación de las transformaciones realizadas.
 
 ## Herramientas utilizadas
 
-Python, Pandas, Jupyter Notebook, PyCharm y GitHub.
+- Python
+- Pandas y NumPy
+- Jupyter Notebook (`.ipynb`)
+- PyCharm
+- Git y GitHub
 
 ## Organización del repositorio
 
-Cada tarea se almacenará en una carpeta independiente (`Tarea_1`, `Tarea_2`, etc.), con los archivos necesarios para revisar y reproducir su desarrollo.
+Las seis tareas se encuentran organizadas en cuatro carpetas principales:
 
-Las actividades pendientes se incorporarán progresivamente conforme sean completadas.
+```text
+Programacion-Avanzada-Ciencia-de-Datos/
+├── README.md
+├── Tareas_1_2_3/
+│   ├── README.md
+│   ├── Unidad2_Practica1_Corregido.ipynb
+│   ├── datos/
+│   └── resultados/
+├── Tarea_4/
+│   ├── README.md
+│   ├── datos/
+│   ├── Notebook de integración (.ipynb)
+│   └── Reporte de fusión y agrupación (.pdf)
+├── Tarea_5/
+│   ├── README.md
+│   ├── datos/
+│   └── Notebook de calidad del aire (.ipynb)
+└── Tarea_6/
+    └── Archivos de la práctica integradora
+```
+
+Las **Tareas 1, 2 y 3** se encuentran reunidas en un mismo notebook. Las Tareas 4, 5 y 6 están organizadas en carpetas independientes.
+
+Los notebooks documentan los procedimientos realizados y las carpetas correspondientes contienen los datos de entrada y los resultados generados.
+
+## Estado del proyecto
+
+**Unidad 2 completada: 6 de 6 tareas publicadas.**
+
+El repositorio conserva las evidencias de las actividades desarrolladas para su revisión académica y consulta posterior.
